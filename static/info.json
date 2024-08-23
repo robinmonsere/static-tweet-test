@@ -1,0 +1,140 @@
+{
+	"__typename": "Tweet",
+	"lang": "en",
+	"favorite_count": 19250,
+	"possibly_sensitive": false,
+	"created_at": "2024-05-20T22:06:48.000Z",
+	"display_text_range": [0, 219],
+	"entities": {
+		"hashtags": [],
+		"urls": [
+			{
+				"display_url": "stories.starlink.com",
+				"expanded_url": "http://stories.starlink.com",
+				"indices": [194, 217],
+				"url": "https://t.co/D6L8BSisQq"
+			}
+		],
+		"user_mentions": [],
+		"symbols": [],
+		"media": [
+			{
+				"display_url": "pic.x.com/yo6f2gtjcj",
+				"expanded_url": "https://twitter.com/Starlink/status/1792678386353213567/video/1",
+				"indices": [218, 241],
+				"url": "https://t.co/yo6f2gtJCJ"
+			}
+		]
+	},
+	"id_str": "1792678386353213567",
+	"text": "Starlink is connecting more than 3M people with high-speed internet across nearly 100 countries, territories and many other markets.\n\nThank you to all of our customers around the world! 🛰️🌎❤️ → https://t.co/D6L8BSisQq https://t.co/yo6f2gtJCJ",
+	"user": {
+		"id_str": "1330170106501079041",
+		"name": "Starlink",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+		"screen_name": "Starlink",
+		"verified": false,
+		"verified_type": "Business",
+		"highlighted_label": {
+			"description": "SpaceX",
+			"badge": {
+				"url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_bigger.jpg"
+			},
+			"url": { "url": "https://twitter.com/SpaceX", "url_type": "DeepLink" },
+			"user_label_type": "BusinessLabel",
+			"user_label_display_type": "Badge"
+		},
+		"is_blue_verified": true
+	},
+	"edit_control": {
+		"edit_tweet_ids": ["1792678386353213567"],
+		"editable_until_msecs": "1716246408000",
+		"is_edit_eligible": true,
+		"edits_remaining": "5"
+	},
+	"mediaDetails": [
+		{
+			"additional_media_info": {},
+			"display_url": "pic.x.com/yo6f2gtjcj",
+			"expanded_url": "https://twitter.com/Starlink/status/1792678386353213567/video/1",
+			"ext_media_availability": { "status": "Available" },
+			"indices": [218, 241],
+			"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1792676831512211456/pu/img/hwIoKGlzHd37hbG_.jpg",
+			"original_info": { "height": 1920, "width": 1080, "focus_rects": [] },
+			"sizes": {
+				"large": { "h": 1920, "resize": "fit", "w": 1080 },
+				"medium": { "h": 1200, "resize": "fit", "w": 675 },
+				"small": { "h": 680, "resize": "fit", "w": 383 },
+				"thumb": { "h": 150, "resize": "crop", "w": 150 }
+			},
+			"type": "video",
+			"url": "https://t.co/yo6f2gtJCJ",
+			"video_info": {
+				"aspect_ratio": [9, 16],
+				"duration_millis": 44210,
+				"variants": [
+					{
+						"content_type": "application/x-mpegURL",
+						"url": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/pl/sQrf5f0JLqX2iDEH.m3u8?tag=14&v=4e6"
+					},
+					{
+						"bitrate": 632000,
+						"content_type": "video/mp4",
+						"url": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/320x568/ElRX0zolOXWNXv5v.mp4?tag=14"
+					},
+					{
+						"bitrate": 950000,
+						"content_type": "video/mp4",
+						"url": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/480x852/R7eW-wwpdjklHpGg.mp4?tag=14"
+					},
+					{
+						"bitrate": 2176000,
+						"content_type": "video/mp4",
+						"url": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/720x1280/_PlOin_Iwz2Ml_-R.mp4?tag=14"
+					},
+					{
+						"bitrate": 10368000,
+						"content_type": "video/mp4",
+						"url": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/1080x1920/6AxaCFI33hhfLvvY.mp4?tag=14"
+					}
+				]
+			}
+		}
+	],
+	"photos": [],
+	"video": {
+		"aspectRatio": [9, 16],
+		"contentType": "media_entity",
+		"durationMs": 44210,
+		"mediaAvailability": { "status": "available" },
+		"poster": "https://pbs.twimg.com/ext_tw_video_thumb/1792676831512211456/pu/img/hwIoKGlzHd37hbG_.jpg",
+		"variants": [
+			{
+				"type": "application/x-mpegURL",
+				"src": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/pl/sQrf5f0JLqX2iDEH.m3u8?tag=14&v=4e6"
+			},
+			{
+				"type": "video/mp4",
+				"src": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/320x568/ElRX0zolOXWNXv5v.mp4?tag=14"
+			},
+			{
+				"type": "video/mp4",
+				"src": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/480x852/R7eW-wwpdjklHpGg.mp4?tag=14"
+			},
+			{
+				"type": "video/mp4",
+				"src": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/720x1280/_PlOin_Iwz2Ml_-R.mp4?tag=14"
+			},
+			{
+				"type": "video/mp4",
+				"src": "https://video.twimg.com/ext_tw_video/1792676831512211456/pu/vid/avc1/1080x1920/6AxaCFI33hhfLvvY.mp4?tag=14"
+			}
+		],
+		"videoId": { "type": "tweet", "id": "1792678386353213567" },
+		"viewCount": 0
+	},
+	"conversation_count": 1913,
+	"news_action_type": "conversation",
+	"isEdited": false,
+	"isStaleEdit": false
+}
